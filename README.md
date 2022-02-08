@@ -1,1 +1,2 @@
-# Starting out~
+# Starting out
+## Taking it step by step
